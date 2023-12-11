@@ -1,0 +1,21 @@
+version=pmwiki-2.3.28 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1702322220
+host=::1
+name=Main.SkillDevelopment
+rev=3
+targets=Main.AcadimicGoals
+text='''Advanced Programming Skills:''' %0a%0a Enhance coding skills in various programming languages relevant to the field of interest.%0a%0a'''Technical Proficiency:''' %0a%0aAcquire proficiency in using tools, frameworks, and technologies specific to one's area of focus, such as TensorFlow for machine learning or AWS for cloud computing.%0a%0a%0a%0a%0a%0a%0a[[ AcadimicGoals| back to goals ]]
+time=1702322255
+author:1702322255=
+diff:1702322255:1702322240:=2d1%0a%3c %0a4d2%0a%3c %0a6d3%0a%3c %0a
+host:1702322255=::1
+author:1702322240=
+diff:1702322240:1702322220:=1,4c1,2%0a%3c '''Advanced Programming Skills:''' %0a%3c  Enhance coding skills in various programming languages relevant to the field of interest.%0a%3c '''Technical Proficiency:''' %0a%3c Acquire proficiency in using tools, frameworks, and technologies specific to one's area of focus, such as TensorFlow for machine learning or AWS for cloud computing.%0a---%0a> '''Advanced Programming Skills:''' \\ Enhance coding skills in various programming languages relevant to the field of interest.%0a> '''Technical Proficiency:''' \\Acquire proficiency in using tools, frameworks, and technologies specific to one's area of focus, such as TensorFlow for machine learning or AWS for cloud computing.%0a
+host:1702322240=::1
+author:1702322220=
+diff:1702322220:1702322220:=1,9d0%0a%3c '''Advanced Programming Skills:''' \\ Enhance coding skills in various programming languages relevant to the field of interest.%0a%3c '''Technical Proficiency:''' \\Acquire proficiency in using tools, frameworks, and technologies specific to one's area of focus, such as TensorFlow for machine learning or AWS for cloud computing.%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c [[ AcadimicGoals| back to goals ]]%0a\ No newline at end of file%0a
+host:1702322220=::1

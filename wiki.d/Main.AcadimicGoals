@@ -1,0 +1,24 @@
+version=pmwiki-2.3.28 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1702321663
+host=::1
+name=Main.AcadimicGoals
+rev=4
+targets=Main.ResearchAndInnovation,Main.SkillDevelopment,Main.NetworkingAndCollaboration,Main.AcademicAchievements,Main.InternshipsAndWorkExperience
+text=[[ Research and Innovation |  Research and Innovation]]%0a%0a[[ Skill Development| Skill Development]]%0a%0a[[ Networking and Collaboration|Networking and Collaboration ]]%0a%0a[[ Academic Achievements|Academic Achievements: ]]%0a%0a[[ Internships and Work Experience| Internships and Work Experience]]
+time=1702321771
+author:1702321771=
+diff:1702321771:1702321689:=
+host:1702321771=::1
+author:1702321689=
+diff:1702321689:1702321679:=2d1%0a%3c %0a4d2%0a%3c %0a6d3%0a%3c %0a8d4%0a%3c %0a
+host:1702321689=::1
+author:1702321679=
+diff:1702321679:1702321663:=1c1%0a%3c [[ Research and Innovation |  Research and Innovation]]%0a---%0a> [[ Research and Innovation | ] Research and Innovation]%0a
+host:1702321679=::1
+author:1702321663=
+diff:1702321663:1702321663:=1,5d0%0a%3c [[ Research and Innovation | ] Research and Innovation]%0a%3c [[ Skill Development| Skill Development]]%0a%3c [[ Networking and Collaboration|Networking and Collaboration ]]%0a%3c [[ Academic Achievements|Academic Achievements: ]]%0a%3c [[ Internships and Work Experience| Internships and Work Experience]]%0a\ No newline at end of file%0a
+host:1702321663=::1

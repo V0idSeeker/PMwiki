@@ -1,0 +1,18 @@
+version=pmwiki-2.3.28 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1702322271
+host=::1
+name=Main.NetworkingAndCollaboration
+rev=2
+targets=Main.AcadimicGoals
+text='''Networking Opportunities:'''%0a%0a Attend conferences, workshops, and seminars to network with professionals and researchers in the field.%0a%0a'''Collaborative Projects:'''%0a%0a Engage in group projects or collaborations with peers and professors for interdisciplinary learning and skill development.%0a%0a%0a%0a[[ AcadimicGoals| back to goals ]]
+time=1702322345
+author:1702322345=
+diff:1702322345:1702322271:=1,7c1,2%0a%3c '''Networking Opportunities:'''%0a%3c %0a%3c  Attend conferences, workshops, and seminars to network with professionals and researchers in the field.%0a%3c %0a%3c '''Collaborative Projects:'''%0a%3c %0a%3c  Engage in group projects or collaborations with peers and professors for interdisciplinary learning and skill development.%0a---%0a> %0a> %0a
+host:1702322345=::1
+author:1702322271=
+diff:1702322271:1702322271:=1,6d0%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c [[ AcadimicGoals| back to goals ]]%0a\ No newline at end of file%0a
+host:1702322271=::1

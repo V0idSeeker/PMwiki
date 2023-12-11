@@ -1,0 +1,15 @@
+version=pmwiki-2.3.28 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1702320503
+host=::1
+name=Main.QuiJeSuis
+rev=1
+targets=Main.HomePage
+text== Qui je suis =%0a%0aHello! This is my CV.%0a%0a[[Main.HomePage|Back to Home]]
+time=1702320503
+author:1702320503=
+diff:1702320503:1702320503:=1,5d0%0a%3c = Qui je suis =%0a%3c %0a%3c Hello! This is my CV.%0a%3c %0a%3c [[Main.HomePage|Back to Home]]%0a\ No newline at end of file%0a
+host:1702320503=::1

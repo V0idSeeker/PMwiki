@@ -1,0 +1,21 @@
+version=pmwiki-2.3.28 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1702321737
+host=::1
+name=Main.ResearchAndInnovation
+rev=3
+targets=Main.AcadimicGoals
+text='''Conduct Research Projects:'''%0a Engage in research activities, publish papers, or contribute to innovative projects in collaboration with faculty or industry partners.%0a%0a'''Develop Novel Solutions:'''%0a%0a Work on innovative solutions or projects that address real-world problems using CS concepts.%0a%0a[[ AcadimicGoals| back to goals ]]%0a
+time=1702322157
+author:1702322157=
+diff:1702322157:1702322140:=8c8%0a%3c [[ AcadimicGoals| back to goals ]]%0a---%0a> [[ | back to goals ]]%0a
+host:1702322157=::1
+author:1702322140=
+diff:1702322140:1702321737:=7,8d6%0a%3c %0a%3c [[ | back to goals ]]%0a
+host:1702322140=::1
+author:1702321737=
+diff:1702321737:1702321737:=1,6d0%0a%3c '''Conduct Research Projects:'''%0a%3c  Engage in research activities, publish papers, or contribute to innovative projects in collaboration with faculty or industry partners.%0a%3c %0a%3c '''Develop Novel Solutions:'''%0a%3c %0a%3c  Work on innovative solutions or projects that address real-world problems using CS concepts.%0a
+host:1702321737=::1

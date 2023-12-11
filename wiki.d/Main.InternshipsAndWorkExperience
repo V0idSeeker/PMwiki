@@ -1,0 +1,18 @@
+version=pmwiki-2.3.28 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1702322288
+host=::1
+name=Main.InternshipsAndWorkExperience
+rev=2
+targets=Main.AcadimicGoals
+text='''Internships and Work Experience:'''%0a%0a Secure internships or gain work experience in reputable companies or research labs.%0a%0a%0a%0a%0a%0a[[ AcadimicGoals| back to goals ]]
+time=1702322447
+author:1702322447=
+diff:1702322447:1702322288:=1,3c1,2%0a%3c '''Internships and Work Experience:'''%0a%3c %0a%3c  Secure internships or gain work experience in reputable companies or research labs.%0a---%0a> %0a> %0a
+host:1702322447=::1
+author:1702322288=
+diff:1702322288:1702322288:=1,8d0%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c [[ AcadimicGoals| back to goals ]]%0a\ No newline at end of file%0a
+host:1702322288=::1

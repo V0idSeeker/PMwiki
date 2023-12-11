@@ -1,0 +1,18 @@
+version=pmwiki-2.3.28 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1702322280
+host=::1
+name=Main.AcademicAchievements
+rev=2
+targets=Main.AcadimicGoals
+text=%0a'''Scholarships and Awards: '''%0a%0aAim for academic recognition through scholarships, awards, or certifications within the field.%0a%0a%0a%0a%0a[[ AcadimicGoals| back to goals ]]
+time=1702322415
+author:1702322415=
+diff:1702322415:1702322280:=2,4c2,3%0a%3c '''Scholarships and Awards: '''%0a%3c %0a%3c Aim for academic recognition through scholarships, awards, or certifications within the field.%0a---%0a> %0a> %0a
+host:1702322415=::1
+author:1702322280=
+diff:1702322280:1702322280:=1,8d0%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c [[ AcadimicGoals| back to goals ]]%0a\ No newline at end of file%0a
+host:1702322280=::1

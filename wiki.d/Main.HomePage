@@ -1,0 +1,47 @@
+version=pmwiki-2.3.28 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0
+author=
+charset=ISO-8859-1
+csum=
+host=::1
+name=Main.HomePage
+rev=215
+targets=Main.AcadimicGoals,Main.GoalsAfterGraduation
+text== Welcome to My Our Site =%0aWe are :  %0a          -'''Boureghdad Rezki'''%0a          -'''Bourabia Akrem'''%0a          -'''Mzahem Mahrez'''%0aMasters Students at  [[https://fs.univ-boumerdes.dz/index.php/en/ |l'university de Boumerdass]]%0a%0a[[Acadimic Goals || Our Acadimic Goals]]%0a[[Goals After Graduation || Goals After Graduation ]]%0a%0a%0a%0a%0a
+time=1702322520
+author:1702322520=
+diff:1702322520:1702322383:=10c10%0a%3c %0a---%0a> [[Commen Intrests || Commen Intrests ]]%0a
+host:1702322520=::1
+author:1702322383=
+diff:1702322383:1702321410:=
+host:1702322383=::1
+author:1702321410=
+diff:1702321410:1702321264:=9,11d8%0a%3c [[Goals After Graduation || Goals After Graduation ]]%0a%3c [[Commen Intrests || Commen Intrests ]]%0a%3c %0a
+host:1702321410=::1
+author:1702321264=
+diff:1702321264:1702321125:=6,10c6,12%0a%3c Masters Students at  [[https://fs.univ-boumerdes.dz/index.php/en/ |l'university de Boumerdass]]%0a%3c %0a%3c [[Acadimic Goals || Our Acadimic Goals]]%0a%3c %0a%3c %0a---%0a> Des Etudion Master dans [[https://fs.univ-boumerdes.dz/index.php/en/ |l'university de Boumerdass]]%0a> * [[Rezki|Boureghdad Rezki ]]%0a> * [[Akrem|Bourabia Akrem ]]%0a> * [[Mahrez|Mzahem Mahrez ]]%0a> * [[QuiJeSuis|Qui je suis (CV)]]%0a> * [[MonProgramme|Mon programme cette année]]%0a> * [[MonTheme|Mon thème de fin d'études]]%0a\ No newline at end of file%0a
+host:1702321264=::1
+author:1702321125=
+diff:1702321125:1702321097:=2,3c2%0a%3c We are :  %0a%3c           -'''Boureghdad Rezki'''%0a---%0a> We are :  -'''Boureghdad Rezki'''%0a
+host:1702321125=::1
+author:1702321097=
+diff:1702321097:1702321043:=2,4c2,4%0a%3c We are :  -'''Boureghdad Rezki'''%0a%3c           -'''Bourabia Akrem'''%0a%3c           -'''Mzahem Mahrez'''%0a---%0a> We are :  -Boureghdad Rezki%0a>           -Bourabia Akrem%0a>           -Mzahem Mahrez%0a
+host:1702321097=::1
+author:1702321043=
+diff:1702321043:1702320970:=5c5%0a%3c Des Etudion Master dans [[https://fs.univ-boumerdes.dz/index.php/en/ |l'university de Boumerdass]]%0a---%0a> Des Etudion Master dans l'university de Boumerdass%0a
+host:1702321043=::1
+author:1702320970=
+diff:1702320970:1702320839:=2,5c2%0a%3c We are :  -Boureghdad Rezki%0a%3c           -Bourabia Akrem%0a%3c           -Mzahem Mahrez%0a%3c Des Etudion Master dans l'university de Boumerdass%0a---%0a> We are : %0a
+host:1702320970=::1
+author:1702320839=
+diff:1702320839:1702320837:=
+host:1702320839=::1
+author:1702320837=
+diff:1702320837:1702320679:=3,5c3%0a%3c * [[Rezki|Boureghdad Rezki ]]%0a%3c * [[Akrem|Bourabia Akrem ]]%0a%3c * [[Mahrez|Mzahem Mahrez ]]%0a---%0a> Boureghdad Rezki%0a
+host:1702320837=::1
+author:1702320679=
+diff:1702320679:1702320458:=1,3c1,2%0a%3c = Welcome to My Our Site =%0a%3c We are : %0a%3c Boureghdad Rezki%0a---%0a> = Welcome to My Personal Site =%0a> %0a
+host:1702320679=::1
+author:1702320458=
+diff:1702320458:1400472661:=1,5c1,13%0a%3c = Welcome to My Personal Site =%0a%3c %0a%3c * [[QuiJeSuis|Qui je suis (CV)]]%0a%3c * [[MonProgramme|Mon programme cette année]]%0a%3c * [[MonTheme|Mon thème de fin d'études]]%0a\ No newline at end of file%0a---%0a> (:Summary:The default home page for the PmWiki distribution:)%0a> Welcome to PmWiki!%0a> %0a> A local copy of PmWiki's%0a> documentation has been installed along with the software,%0a> and is available via the [[PmWiki/documentation index]].  %0a> %0a> To continue setting up PmWiki, see [[PmWiki/initial setup tasks]].%0a> %0a> The [[PmWiki/basic editing]] page describes how to create pages%0a> in PmWiki.  You can practice editing in the [[wiki sandbox]].%0a> %0a> More information about PmWiki is available from [[https://www.pmwiki.org]].%0a
+host:1702320458=::1
