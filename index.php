@@ -1,10 +1,9 @@
-<htmlL>
+<html>
 <?php include('pmwiki.php');
 ?>
 <head></head>
 <body>
-    fdfd
+   
 </body>
 
-
-</htmlL>
+</html>
